@@ -7,9 +7,9 @@
 markdown                 :  GFM
 # Site Settings
 locale                   : "en-US"
-title                    : "Sabbir Ahmed"
+title                    : "Lamia Anjum"
 title_separator          : "-"
-name                     : &name "Sabbir Ahmed"
+name                     : &name "Lamia Anjum"
 description              : &description "personal description"
 url                      : https://SabbirAhmed11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sabbir Ahmed"
+  name             : "Lamia Anjum"
   avatar           : "final_picture.jpg"
   bio              : "As a fervent believer in the potential of cutting-edge technologies, I'm dedicated to creating seamless and intuitive experiences through the synergy of AI and human-centric design. Join me on this thrilling ride as we unravel the mysteries of ML-driven UX, unlocking new frontiers in the digital landscape. "
   location         : "Dhaka, Bangladesh"
