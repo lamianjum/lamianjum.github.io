@@ -20,7 +20,7 @@ redirect_from:
 
 ### English Proficiency
 
-* IELTS Score - Band 7
+* IELTS Score - Band 7.5
 
 <br /> 
 
